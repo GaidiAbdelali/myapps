@@ -1,16 +1,16 @@
 {	
-"FB_ADS_NATIVE_BANNER_ONE" 	:	"2592613770978133_2592613860978124",
-"FB_ADS_NATIVE_BANNER_TWO"	:	"2592613770978133_2592613857644791",
-"FB_ADS_INTERSTITIAL_HOME"	:	"2592613770978133_2592613850978125",
-"ADMOB_BANNER_ONE"    		:	"ca-app-pub-3940256099942544/6300978111",
+"FB_ADS_NATIVE_BANNER_ONE" 	:	"1159308924415040_1159308994415033",
+"FB_ADS_NATIVE_BANNER_TWO"	:	"1159308924415040_1159309001081699",
+"FB_ADS_INTERSTITIAL_HOME"	:	"1159308924415040_1159308997748366",
+"ADMOB_BANNER_ONE"    		  :	"ca-app-pub-3940256099942544/6300978111",
 "ADMOB_BANNER_TWO"	    		:	"ca-app-pub-3940256099942544/6300978111",
 "ADMOB_INTERSTITIAL_HOME"		:	"ca-app-pub-3940256099942544/1033173712",
-"FLURRY_ID"			       		:	"0",
+"FLURRY_ID"			       		  :	"0",
 "SA_ID"	 					          :	"0",
 "AD_NETWORK"			      		:	"facebook",
 "RATE"						          :	"0",
 "SHOW" 						          :	"1",
-"LINK"						          :	"https://www.bigappboi.com/cl.php?id=64ce191c2e8fd0148856616670e246e1",
+"LINK"						          :	"https://www.bigappboi.com/cl.php?id=07a64b3c240a11e76def862831ac36a4",
 "NOT_NOW"						        :	"Not Now",
 "CONTENT"					        	:	"Please rate our app 5 stars, Thanks"
 }
