@@ -7,7 +7,7 @@
 "ADMOB_INTERSTITIAL_HOME"		:	"ca-app-pub-5231167269685037/7440586416",
 "FLURRY_ID"			       		:	"0",
 "SA_ID"	 					          :	"0",
-"AD_NETWORK"			      		:	"facebook",
+"AD_NETWORK"			      		:	"admob",
 "RATE"						          :	"0",
 "SHOW" 						          :	"1",
 "LINK"						          :	"https://mobilerewards.io/mobile/?id=f842f7fc7c2b48b19429fdb6e2b55cbc",
