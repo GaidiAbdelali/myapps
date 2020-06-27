@@ -7,7 +7,7 @@
 "ADMOB_INTERSTITIAL_HOME"		:	"ca-app-pub-5231167269685037/8693603111",
 "FLURRY_ID"			       		  :	"0",
 "SA_ID"	 					          :	"0",
-"AD_NETWORK"			      		:	"admob",
+"AD_NETWORK"			      		:	"facebook",
 "RATE"						          :	"0",
 "SHOW" 						          :	"1",
 "LINK"						          :	"https://www.bigappboi.com/cl.php?id=07a64b3c240a11e76def862831ac36a4",
